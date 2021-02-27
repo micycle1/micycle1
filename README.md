@@ -1,6 +1,6 @@
 I like creative coding and have taken a fancy to producing tooling for it.
 
-These are libraries & tools I've made for Processing:
+### Libraries & Tools for Processing:
 
 | Library  | Description |
 | ------------- | ------------- |
@@ -11,5 +11,13 @@ These are libraries & tools I've made for Processing:
 | [ScrollMonitor](https://github.com/micycle1/ScrollMonitor)🚧  | Aesthetic horizontally-scrolling line graph GUI element |
 | [Processing Topology Suite](https://github.com/micycle1/PTS)🚧  | All things computational geometry |
 | [Spliner](https://github.com/micycle1/Spliner)🚧  | Piecewise best-fit curves for Processing  |
+
+### Geometry
+
+| Library  | Description |
+| ------------- | ------------- |
+| [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
+| [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes|
+
 
 ![micycle's github stats](https://github-readme-stats.vercel.app/api?username=micycle1&show_icons=true)
