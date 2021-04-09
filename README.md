@@ -9,7 +9,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [PText](https://github.com/micycle1/PText)🚧  | Vector-based geometric text manipulation |
 | [processing-skia](https://github.com/micycle1/processing-skia)  | Eases *Skija* (Skia for Java) interoperability with Processing |
 | [ScrollMonitor](https://github.com/micycle1/ScrollMonitor)🚧  | Aesthetic horizontally-scrolling line graph GUI element |
-| [Processing Topology Suite](https://github.com/micycle1/PTS)🚧  | All things computational geometry |
+| [Processing Geometry Suite](https://github.com/micycle1/PTS)🚧  | All things computational geometry |
 | [Spliner](https://github.com/micycle1/Spliner)🚧  | Piecewise best-fit curves for Processing  |
 | [DistanceField](https://github.com/micycle1/DistanceField)🚧  | Distance fields for 2D shapes  |
 
