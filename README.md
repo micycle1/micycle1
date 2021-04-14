@@ -21,6 +21,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | ------------- | ------------- |
 | [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
 | [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes|
+| [balaban-intersection](https://github.com/micycle1/balaban-intersection)🚧  | Balaban's algorithm to find intersecting segment pairs from a set of line segments |
 
 
 ![micycle's github stats](https://github-readme-stats.vercel.app/api?username=micycle1&show_icons=true)
