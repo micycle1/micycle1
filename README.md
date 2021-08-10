@@ -23,5 +23,11 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes|
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
 
+### Assorted
+
+| Library  | Description |
+| ------------- | ------------- |
+| [UniformNoise](https://github.com/micycle1/UniformNoise) | Uniformly distributed Perlin noise|
+
 
 ![micycle's github stats](https://github-readme-stats.vercel.app/api?username=micycle1&show_icons=true)
