@@ -22,6 +22,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
 | [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes|
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
+| [TrapMap](https://github.com/micycle1/TrapMap)🚧 | Trapezoidal Maps — a data structure for fast point location queries. |
 
 ### Assorted
 
