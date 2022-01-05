@@ -23,12 +23,14 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes|
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
 | [TrapMap](https://github.com/micycle1/TrapMap) | Trapezoidal Map — a data structure for fast point location queries. |
+| [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 
 ### Assorted
 
 | Library  | Description |
 | ------------- | ------------- |
 | [UniformNoise](https://github.com/micycle1/UniformNoise) | Uniformly distributed Perlin noise|
+| [jSimplex](https://github.com/micycle1/jSimplex) | Fast parallel calculation of simplex noise using the GPU |
 
 ### Mavenised Forks
 
