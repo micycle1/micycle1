@@ -39,7 +39,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | Library  | Author | Artifact |
 | ------------- | ------------- | ------------- |
 | [Processing 3](https://github.com/micycle1/processing3) | Processing | [3.5.4](https://jitpack.io/#micycle1/processing3) |
-| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.0.3a](https://jitpack.io/#micycle1/processing-core-4) |
+| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.0b4](https://jitpack.io/#micycle1/processing-core-4) |
 | [Handy](https://github.com/micycle1/handy) | giCentre | [1.0.0](https://jitpack.io/#micycle1/handy) |
 | [gicentreutils](https://github.com/micycle1/gicentreutils) | giCentre | [1.0.0](https://jitpack.io/#micycle1/gicentreutils) |
 
