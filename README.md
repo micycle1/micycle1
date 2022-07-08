@@ -45,5 +45,6 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [gicentreutils](https://github.com/micycle1/gicentreutils) | giCentre | [1.0.0](https://jitpack.io/#micycle1/gicentreutils) |
 | [HE_Mesh](https://github.com/micycle1/HE_Mesh-maven) | wblut | [1.0.0](https://jitpack.io/#micycle1/HE_Mesh/1.0.0) |
 | [JMP Lib](https://github.com/micycle1/JMPLib) | University of Oviedo | [1.1.1](https://jitpack.io/#micycle1/HE_Mesh/1.0.0) |
+| [FixPointCS](https://github.com/micycle1/FixPoint4j) | XMunkki | [0.3](https://jitpack.io/#micycle1/FixPoint4j) |
 
 ![micycle's github stats](https://github-readme-stats.vercel.app/api?username=micycle1&show_icons=true)
