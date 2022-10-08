@@ -25,6 +25,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [TrapMap](https://github.com/micycle1/TrapMap) | Trapezoidal Map — a data structure for fast point location queries |
 | [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 | [Dubins-Curves](https://github.com/micycle1/Dubins-Curves) | Path generation for the Dubin's car
+| [Clipper2-Java](https://github.com/micycle1/Clipper2-java) | Java port of Clipper2, a Polygon Clipping and Offsetting Library
 
 ### Assorted
 
