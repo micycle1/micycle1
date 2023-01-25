@@ -25,6 +25,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [TrapMap](https://github.com/micycle1/TrapMap) | Trapezoidal Map — a data structure for fast point location queries |
 | [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 | [Dubins-Curves](https://github.com/micycle1/Dubins-Curves) | Path generation for the Dubin's car
+| [Hobby-Curves](https://github.com/micycle1/Hobby-Curves) | John Hobby’s algorithm for producing a smooth curve through a given set of points
 | [Clipper2-Java](https://github.com/micycle1/Clipper2-java) | Java port of Clipper2, a Polygon Clipping and Offsetting Library
 
 ### Assorted
@@ -41,7 +42,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | Library  | Author | Artifact |
 | ------------- | ------------- | ------------- |
 | [Processing 3](https://github.com/micycle1/processing3) | Processing | [3.5.4](https://jitpack.io/#micycle1/processing3) |
-| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.0b6](https://jitpack.io/#micycle1/processing-core-4) |
+| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.1.1](https://jitpack.io/#micycle1/processing-core-4) |
 | [Handy](https://github.com/micycle1/handy) | giCentre | [1.0.0](https://jitpack.io/#micycle1/handy) |
 | [gicentreutils](https://github.com/micycle1/gicentreutils) | giCentre | [1.0.0](https://jitpack.io/#micycle1/gicentreutils) |
 | [HE_Mesh](https://github.com/micycle1/HE_Mesh-maven) | wblut | [1.0.0](https://jitpack.io/#micycle1/HE_Mesh/1.0.0) |
