@@ -45,6 +45,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | ------------- | ------------- | ------------- |
 | [Processing 3](https://github.com/micycle1/processing3) | Processing | [3.5.4](https://jitpack.io/#micycle1/processing3) |
 | [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.1.1](https://jitpack.io/#micycle1/processing-core-4) |
+| [controlP5](https://github.com/micycle1/controlp5) | controlP5 | [2.2.7-SNAPSHOT](https://jitpack.io/#micycle1/controlp5/) |
 | [Handy](https://github.com/micycle1/handy) | giCentre | [1.0.0](https://jitpack.io/#micycle1/handy) |
 | [gicentreutils](https://github.com/micycle1/gicentreutils) | giCentre | [1.0.0](https://jitpack.io/#micycle1/gicentreutils) |
 | [HE_Mesh](https://github.com/micycle1/HE_Mesh-maven) | wblut | [1.0.0](https://jitpack.io/#micycle1/HE_Mesh/1.0.0) |
