@@ -36,6 +36,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | ------------- | ------------- |
 | [UniformNoise](https://github.com/micycle1/UniformNoise) | Uniformly distributed Perlin noise|
 | [jSimplex](https://github.com/micycle1/jSimplex) | Fast parallel calculation of simplex noise using the GPU |
+| [H2SI](https://github.com/micycle1/H2SI) | The H2SI Colour Space |
 
 ### Mavenised Forks
 
@@ -44,7 +45,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | Library  | Author | Artifact |
 | ------------- | ------------- | ------------- |
 | [Processing 3](https://github.com/micycle1/processing3) | Processing | [3.5.4](https://jitpack.io/#micycle1/processing3) |
-| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.1.1](https://jitpack.io/#micycle1/processing-core-4) |
+| [Processing 4](https://github.com/micycle1/processing-core-4) | Processing | [4.3.3](https://jitpack.io/#micycle1/processing-core-4) |
 | [controlP5](https://github.com/micycle1/controlp5) | controlP5 | [2.2.7-SNAPSHOT](https://jitpack.io/#micycle1/controlp5/) |
 | [Handy](https://github.com/micycle1/handy) | giCentre | [1.0.0](https://jitpack.io/#micycle1/handy) |
 | [gicentreutils](https://github.com/micycle1/gicentreutils) | giCentre | [1.0.0](https://jitpack.io/#micycle1/gicentreutils) |
