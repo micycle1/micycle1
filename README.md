@@ -12,7 +12,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [ScrollMonitor](https://github.com/micycle1/ScrollMonitor)🚧  | Aesthetic horizontally-scrolling line graph GUI element |
 | [Spliner](https://github.com/micycle1/Spliner)  | Piecewise best-fit curves for Processing  |
 | [DistanceField](https://github.com/micycle1/DistanceField)🚧  | Distance fields for 2D shapes  |
-| [PMesh](https://github.com/micycle1/PMesh)🚧 | Half-edge representation for mesh-like Processing PShapes |
+| [PMesh](https://github.com/micycle1/PMesh)🚧 | Half-edge representation for mesh-like PShapes |
 
 
 
