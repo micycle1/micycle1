@@ -20,15 +20,16 @@ I like creative coding and have taken a fancy to producing tooling for it.
 
 | Library  | Description |
 | ------------- | ------------- |
+| [GeoBlitz](https://github.com/micycle1/GeoBlitz) | Fast JTS-inspired spatial indexes and geometry functionality |
 | [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
 | [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes |
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
-| [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 | [Dubins-Curves](https://github.com/micycle1/Dubins-Curves) | Path generation for the Dubin's car
 | [Hobby-Curves](https://github.com/micycle1/Hobby-Curves) | John Hobby’s algorithm for producing a smooth curve through a given set of points
 | [Clipper2-Java](https://github.com/micycle1/Clipper2-java) | Java port of Clipper2, a Polygon Clipping and Offsetting Library
 | [BetterBeziers](https://github.com/micycle1/BetterBeziers) | High-precision utils for 2D Cubic Bezier Curves |
 | [SRPG](https://github.com/micycle1/SRPG) | Super Random Polygon Generator |
+| [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 
 ### Spatial Indexes
 
