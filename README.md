@@ -23,7 +23,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [GeoBlitz](https://github.com/micycle1/GeoBlitz) | Fast JTS-inspired spatial indexes and geometry functionality |
 | [CircuPack](https://github.com/micycle1/CircuPack) | Computes Euclidean circle packings from triangulations |
 | [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
-| [JMedialAxis](https://github.com/micycle1/JMedialAxis)🚧  | Computes and models medial axes of geometric shapes |
+| [boneyard](https://github.com/micycle1/boneyard)🚧  | Fast and clean polygon medial axes in Java |
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
 | [Dubins-Curves](https://github.com/micycle1/Dubins-Curves) | Path generation for the Dubin's car
 | [Hobby-Curves](https://github.com/micycle1/Hobby-Curves) | John Hobby’s algorithm for producing a smooth curve through a given set of points
