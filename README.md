@@ -30,6 +30,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [Clipper2-Java](https://github.com/micycle1/Clipper2-java) | Java port of Clipper2, a Polygon Clipping and Offsetting Library
 | [BetterBeziers](https://github.com/micycle1/BetterBeziers) | High-precision utils for 2D Cubic Bezier Curves |
 | [SRPG](https://github.com/micycle1/SRPG) | Super Random Polygon Generator |
+| [malleo](https://github.com/micycle1/malleo) | 2D As-rigid-as-possible (ARAP) shape deformation for Java |
 | [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 
 ### Spatial Indexes
