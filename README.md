@@ -22,6 +22,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | ------------- | ------------- |
 | [GeoBlitz](https://github.com/micycle1/GeoBlitz) | Fast JTS-inspired spatial indexes and geometry functionality |
 | [CircuPack](https://github.com/micycle1/CircuPack) | Computes Euclidean circle packings from triangulations |
+| [grassfire4j](https://github.com/micycle1/grassfire4j) | Straight Skeletons via Kinetic Triangulation, in Java |
 | [JOpenVoronoi+](https://github.com/micycle1/jOpenVoronoi) | An extended and improved jOpenVoronoi |
 | [boneyard](https://github.com/micycle1/boneyard)🚧  | Fast and clean polygon medial axes in Java |
 | [balaban-intersection](https://github.com/micycle1/balaban-intersection) | Balaban's algorithm for finding intersecting segment pairs from a set of line segments |
