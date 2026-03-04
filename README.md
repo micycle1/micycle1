@@ -49,7 +49,8 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [UniformNoise](https://github.com/micycle1/UniformNoise) | Uniformly distributed Perlin noise|
 | [jSimplex](https://github.com/micycle1/jSimplex) | Fast parallel calculation of simplex noise using the GPU |
 | [H2SI](https://github.com/micycle1/H2SI) | The H2SI Colour Space |
-| [count-tokens](https://github.com/micycle1/count-tokens) | Ultra-fast, client-side token counter for large text blobs ([webpage](https://micycle1.github.io/count-tokens/))
+| [count-tokens](https://github.com/micycle1/count-tokens) | Ultra-fast, client-side token counter for large text blobs ([webpage](https://micycle1.github.io/count-tokens/)) |
+| [diffscope](https://github.com/micycle1/diffscope) | Browse GitHub release diffs ([webpage](https://micycle1.github.io/diffscope/)) |
 
 ### Mavenised Forks
 
