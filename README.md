@@ -52,6 +52,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [H2SI](https://github.com/micycle1/H2SI) | The H2SI Colour Space |
 | [count-tokens](https://github.com/micycle1/count-tokens) | Ultra-fast, client-side token counter for large text blobs ([webpage](https://micycle1.github.io/count-tokens/)) |
 | [diffscope](https://github.com/micycle1/diffscope) | Browse GitHub release diffs ([webpage](https://micycle1.github.io/diffscope/)) |
+| [notebook-convert](https://github.com/micycle1/notebook-convert) | Quick-and-easy convert Jupyter notebooks to .py ([webpage](https://micycle1.github.io/notebook-convert/))|
 
 ### Mavenised Forks
 
