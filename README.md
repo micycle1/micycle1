@@ -34,6 +34,7 @@ I like creative coding and have taken a fancy to producing tooling for it.
 | [malleo](https://github.com/micycle1/malleo) | 2D As-rigid-as-possible (ARAP) shape deformation for Java |
 | [Polygon Morphing](https://github.com/micycle1/Polygon-Morphing)| A solution to the Vertex Correspondence Problem in 2D Polygon Morphing |
 | [robust-predicates](https://github.com/micycle1/robust-predicates) | Code-generation framework for adaptive exact geometric predicates |
+| [quickhull3d](https://github.com/micycle1/quickhull3d) (fork) | A quickhull3d fork adding robust geometric predicates and 2D Power Diagram helpers |
 
 ### Spatial Indexes
 
